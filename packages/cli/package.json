@@ -33,7 +33,7 @@
     "@tsoa/runtime": "^4.0.0",
     "deepmerge": "^4.2.2",
     "fs-extra": "^8.1.0",
-    "glob": "^7.1.6",
+    "glob": "^9.0.0",
     "handlebars": "^4.7.7",
     "merge": "^2.1.0",
     "minimatch": "^3.0.4",
